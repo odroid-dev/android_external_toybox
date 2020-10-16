@@ -265,6 +265,7 @@ ALL_TOOLS := \
     cpio \
     cut \
     date \
+    dd \
     df \
     diff \
     dirname \
@@ -283,6 +284,7 @@ ALL_TOOLS := \
     fmt \
     free \
     getenforce \
+    grep \
     groups \
     gunzip \
     gzip \
